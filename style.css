@@ -86,6 +86,7 @@ hr {
 }
 
 #intro {
+  width: 1256px;
   display: flex;
   flex-direction: row;
 }
